@@ -169,4 +169,4 @@ MaToy 使用 macOS 当前会话及系统权限，不绕过锁屏登录。远程�
 
 MaToy 基于 [FoloToy AI Passport](https://github.com/folotoy/ai-passport) 的开发基线和 BSP 构建。AI Passport 是硬件名称，MaToy 是本项目名称。
 
-原项目许可见 [LICENSE](source/firmware/LICENSE)；字体及依赖许可见 [第三方许可](第三方许可)。
+MaToy 的项目代码采用 [MIT License](LICENSE) 开源，并保留上游 FoloToy 的版权声明。字体、第三方依赖及其相关内容仍按各自许可分发，见 [第三方许可](第三方许可)。
