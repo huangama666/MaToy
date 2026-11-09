@@ -1,0 +1,2233 @@
+{
+  "source": "https://rapi.qtfm.cn/regions",
+  "verified_date": "2026-11-07",
+  "stations": [
+    {
+      "id": 274,
+      "name": "上海动感101",
+      "region": "上海",
+      "frequency": ""
+    },
+    {
+      "id": 267,
+      "name": "上海经典947",
+      "region": "上海",
+      "frequency": ""
+    },
+    {
+      "id": 266,
+      "name": "上海交通广播",
+      "region": "上海",
+      "frequency": "FM105.7"
+    },
+    {
+      "id": 276,
+      "name": "第一财经广播",
+      "region": "上海",
+      "frequency": ""
+    },
+    {
+      "id": 273,
+      "name": "上海流行音乐LoveRadio",
+      "region": "上海",
+      "frequency": ""
+    },
+    {
+      "id": 269,
+      "name": "上海戏曲广播",
+      "region": "上海",
+      "frequency": ""
+    },
+    {
+      "id": 275,
+      "name": "长三角之声",
+      "region": "上海",
+      "frequency": ""
+    },
+    {
+      "id": 5022341,
+      "name": "上海沸点100音乐广播",
+      "region": "上海",
+      "frequency": ""
+    },
+    {
+      "id": 21355,
+      "name": "东上海之声FM106.5",
+      "region": "上海",
+      "frequency": ""
+    },
+    {
+      "id": 4022,
+      "name": "金山区广播电视台综合广播",
+      "region": "上海",
+      "frequency": ""
+    },
+    {
+      "id": 339,
+      "name": "北京新闻广播",
+      "region": "北京",
+      "frequency": ""
+    },
+    {
+      "id": 336,
+      "name": "北京交通广播",
+      "region": "北京",
+      "frequency": ""
+    },
+    {
+      "id": 5021381,
+      "name": "959年代音乐怀旧好声音",
+      "region": "北京",
+      "frequency": ""
+    },
+    {
+      "id": 332,
+      "name": "北京音乐广播",
+      "region": "北京",
+      "frequency": ""
+    },
+    {
+      "id": 345,
+      "name": "北京城市广播",
+      "region": "北京",
+      "frequency": ""
+    },
+    {
+      "id": 5022463,
+      "name": "京津冀之声",
+      "region": "北京",
+      "frequency": ""
+    },
+    {
+      "id": 20211619,
+      "name": "1079音乐有话说",
+      "region": "北京",
+      "frequency": ""
+    },
+    {
+      "id": 5021739,
+      "name": "北京大兴人民广播电台FM986",
+      "region": "北京",
+      "frequency": ""
+    },
+    {
+      "id": 20211620,
+      "name": "流行音乐广播999正青春",
+      "region": "北京",
+      "frequency": ""
+    },
+    {
+      "id": 4522,
+      "name": "FM93浙江交通之声",
+      "region": "浙江",
+      "frequency": ""
+    },
+    {
+      "id": 1133,
+      "name": "杭州交通91.8电台",
+      "region": "浙江",
+      "frequency": ""
+    },
+    {
+      "id": 4518,
+      "name": "浙江之声",
+      "region": "浙江",
+      "frequency": ""
+    },
+    {
+      "id": 4521,
+      "name": "浙江FM99.6",
+      "region": "浙江",
+      "frequency": ""
+    },
+    {
+      "id": 1163,
+      "name": "西湖之声",
+      "region": "浙江",
+      "frequency": ""
+    },
+    {
+      "id": 1135,
+      "name": "嘉兴交通广播",
+      "region": "浙江",
+      "frequency": ""
+    },
+    {
+      "id": 4866,
+      "name": "浙江音乐调频",
+      "region": "浙江",
+      "frequency": ""
+    },
+    {
+      "id": 4519,
+      "name": "浙江经济广播",
+      "region": "浙江",
+      "frequency": ""
+    },
+    {
+      "id": 2812,
+      "name": "FM103.5湖州经济广播",
+      "region": "浙江",
+      "frequency": ""
+    },
+    {
+      "id": 1154,
+      "name": "嘉兴综合广播",
+      "region": "浙江",
+      "frequency": ""
+    },
+    {
+      "id": 1140,
+      "name": "宁波交通广播",
+      "region": "浙江",
+      "frequency": ""
+    },
+    {
+      "id": 15318146,
+      "name": "杭州FM90.7",
+      "region": "浙江",
+      "frequency": ""
+    },
+    {
+      "id": 1138,
+      "name": "宁波新闻综合广播",
+      "region": "浙江",
+      "frequency": ""
+    },
+    {
+      "id": 1152,
+      "name": "宁波经济广播",
+      "region": "浙江",
+      "frequency": ""
+    },
+    {
+      "id": 4944,
+      "name": "江苏新闻广播",
+      "region": "江苏",
+      "frequency": ""
+    },
+    {
+      "id": 4938,
+      "name": "江苏经典流行音乐",
+      "region": "江苏",
+      "frequency": ""
+    },
+    {
+      "id": 4054,
+      "name": "江苏交通广播",
+      "region": "江苏",
+      "frequency": ""
+    },
+    {
+      "id": 2803,
+      "name": "苏州音乐广播",
+      "region": "江苏",
+      "frequency": ""
+    },
+    {
+      "id": 2806,
+      "name": "苏州交通广播",
+      "region": "江苏",
+      "frequency": ""
+    },
+    {
+      "id": 4963,
+      "name": "南京音乐广播",
+      "region": "江苏",
+      "frequency": ""
+    },
+    {
+      "id": 2808,
+      "name": "苏州新闻广播",
+      "region": "江苏",
+      "frequency": ""
+    },
+    {
+      "id": 2777,
+      "name": "FM93.7无锡新闻综合广播",
+      "region": "江苏",
+      "frequency": ""
+    },
+    {
+      "id": 4922,
+      "name": "徐州新闻综合广播",
+      "region": "江苏",
+      "frequency": ""
+    },
+    {
+      "id": 4936,
+      "name": "江苏音乐广播PlayFM897",
+      "region": "江苏",
+      "frequency": ""
+    },
+    {
+      "id": 20012,
+      "name": "江苏故事广播",
+      "region": "江苏",
+      "frequency": ""
+    },
+    {
+      "id": 2779,
+      "name": "无锡音乐广播",
+      "region": "江苏",
+      "frequency": ""
+    },
+    {
+      "id": 15318160,
+      "name": "徐州经典音乐FM942",
+      "region": "江苏",
+      "frequency": ""
+    },
+    {
+      "id": 2792,
+      "name": "常熟新闻广播",
+      "region": "江苏",
+      "frequency": ""
+    },
+    {
+      "id": 1259,
+      "name": "广东珠江经济电台",
+      "region": "广东",
+      "frequency": ""
+    },
+    {
+      "id": 469,
+      "name": "广东城市之声",
+      "region": "广东",
+      "frequency": ""
+    },
+    {
+      "id": 4847,
+      "name": "投资传媒（股市广播）",
+      "region": "广东",
+      "frequency": ""
+    },
+    {
+      "id": 1270,
+      "name": "深圳先锋898",
+      "region": "广东",
+      "frequency": ""
+    },
+    {
+      "id": 1262,
+      "name": "广东交通之声",
+      "region": "广东",
+      "frequency": ""
+    },
+    {
+      "id": 1286,
+      "name": "鹤山电台",
+      "region": "广东",
+      "frequency": ""
+    },
+    {
+      "id": 4848,
+      "name": "广州新闻电台",
+      "region": "广东",
+      "frequency": ""
+    },
+    {
+      "id": 1260,
+      "name": "广东音乐之声",
+      "region": "广东",
+      "frequency": ""
+    },
+    {
+      "id": 4955,
+      "name": "广州交通广播",
+      "region": "广东",
+      "frequency": ""
+    },
+    {
+      "id": 1254,
+      "name": "广东新闻广播",
+      "region": "广东",
+      "frequency": ""
+    },
+    {
+      "id": 1278,
+      "name": "中山电台快乐888",
+      "region": "广东",
+      "frequency": ""
+    },
+    {
+      "id": 468,
+      "name": "广东南方生活广播",
+      "region": "广东",
+      "frequency": ""
+    },
+    {
+      "id": 471,
+      "name": "广东广播电视台文体广播",
+      "region": "广东",
+      "frequency": ""
+    },
+    {
+      "id": 1272,
+      "name": "深圳交通频率",
+      "region": "广东",
+      "frequency": ""
+    },
+    {
+      "id": 20003,
+      "name": "天津滨海100.5",
+      "region": "天津",
+      "frequency": ""
+    },
+    {
+      "id": 20212227,
+      "name": "经典FM1008",
+      "region": "天津",
+      "frequency": ""
+    },
+    {
+      "id": 1644,
+      "name": "河北新闻广播",
+      "region": "河北",
+      "frequency": ""
+    },
+    {
+      "id": 1649,
+      "name": "河北音乐广播",
+      "region": "河北",
+      "frequency": ""
+    },
+    {
+      "id": 1646,
+      "name": "河北交通广播",
+      "region": "河北",
+      "frequency": ""
+    },
+    {
+      "id": 20212269,
+      "name": "经典音乐 FM90.5",
+      "region": "河北",
+      "frequency": ""
+    },
+    {
+      "id": 5072,
+      "name": "邯郸新闻综合广播",
+      "region": "河北",
+      "frequency": ""
+    },
+    {
+      "id": 1652,
+      "name": "石家庄新闻广播",
+      "region": "河北",
+      "frequency": ""
+    },
+    {
+      "id": 5021555,
+      "name": "怀旧金曲964",
+      "region": "河北",
+      "frequency": ""
+    },
+    {
+      "id": 5022603,
+      "name": "献县人民广播电台",
+      "region": "河北",
+      "frequency": ""
+    },
+    {
+      "id": 5022470,
+      "name": "任丘融媒体中心综合广播",
+      "region": "河北",
+      "frequency": ""
+    },
+    {
+      "id": 3950,
+      "name": "邯郸交通广播",
+      "region": "河北",
+      "frequency": ""
+    },
+    {
+      "id": 1651,
+      "name": "河北旅游文化广播",
+      "region": "河北",
+      "frequency": ""
+    },
+    {
+      "id": 5022474,
+      "name": "武安融媒综合广播",
+      "region": "河北",
+      "frequency": ""
+    },
+    {
+      "id": 3948,
+      "name": "畅行951",
+      "region": "河北",
+      "frequency": ""
+    },
+    {
+      "id": 20007,
+      "name": "880山西交通广播",
+      "region": "山西",
+      "frequency": ""
+    },
+    {
+      "id": 4900,
+      "name": "FM107太原交通广播",
+      "region": "山西",
+      "frequency": ""
+    },
+    {
+      "id": 4932,
+      "name": "山西音乐广播",
+      "region": "山西",
+      "frequency": ""
+    },
+    {
+      "id": 20491,
+      "name": "山西综合广播FM904",
+      "region": "山西",
+      "frequency": ""
+    },
+    {
+      "id": 20006,
+      "name": "FM912太原综合广播",
+      "region": "山西",
+      "frequency": ""
+    },
+    {
+      "id": 20470,
+      "name": "山西健康之声",
+      "region": "山西",
+      "frequency": ""
+    },
+    {
+      "id": 20485,
+      "name": "FM101.5山西文艺广播",
+      "region": "山西",
+      "frequency": ""
+    },
+    {
+      "id": 1191,
+      "name": "运城文艺广播",
+      "region": "山西",
+      "frequency": ""
+    },
+    {
+      "id": 5022511,
+      "name": "山西故事广播",
+      "region": "山西",
+      "frequency": ""
+    },
+    {
+      "id": 4018,
+      "name": "FM1044太原经济广播",
+      "region": "山西",
+      "frequency": ""
+    },
+    {
+      "id": 20211690,
+      "name": "大同广播电视台新闻综合广播",
+      "region": "山西",
+      "frequency": ""
+    },
+    {
+      "id": 5022396,
+      "name": "大同交通广播",
+      "region": "山西",
+      "frequency": ""
+    },
+    {
+      "id": 15318568,
+      "name": "阳泉综合广播",
+      "region": "山西",
+      "frequency": ""
+    },
+    {
+      "id": 1889,
+      "name": "FM94.9包头综合广播",
+      "region": "内蒙古",
+      "frequency": ""
+    },
+    {
+      "id": 1884,
+      "name": "内蒙古交通之声",
+      "region": "内蒙古",
+      "frequency": ""
+    },
+    {
+      "id": 1883,
+      "name": "内蒙古新闻综合广播",
+      "region": "内蒙古",
+      "frequency": ""
+    },
+    {
+      "id": 1896,
+      "name": "赤峰综合广播",
+      "region": "内蒙古",
+      "frequency": ""
+    },
+    {
+      "id": 1890,
+      "name": "包头交通广播",
+      "region": "内蒙古",
+      "frequency": ""
+    },
+    {
+      "id": 1886,
+      "name": "内蒙古音乐之声",
+      "region": "内蒙古",
+      "frequency": ""
+    },
+    {
+      "id": 5021543,
+      "name": "呼和浩特综合广播",
+      "region": "内蒙古",
+      "frequency": ""
+    },
+    {
+      "id": 1899,
+      "name": "赤峰交通广播",
+      "region": "内蒙古",
+      "frequency": ""
+    },
+    {
+      "id": 1892,
+      "name": "包头汽车音乐广播",
+      "region": "内蒙古",
+      "frequency": ""
+    },
+    {
+      "id": 1888,
+      "name": "内蒙古绿野之声广播",
+      "region": "内蒙古",
+      "frequency": ""
+    },
+    {
+      "id": 1882,
+      "name": "内蒙古蒙古语广播",
+      "region": "内蒙古",
+      "frequency": ""
+    },
+    {
+      "id": 20352,
+      "name": "鄂尔多斯交通文体广播",
+      "region": "内蒙古",
+      "frequency": ""
+    },
+    {
+      "id": 5021545,
+      "name": "呼和浩特交通广播",
+      "region": "内蒙古",
+      "frequency": ""
+    },
+    {
+      "id": 20024,
+      "name": "沈阳之声",
+      "region": "辽宁",
+      "frequency": ""
+    },
+    {
+      "id": 20025,
+      "name": "辽宁交通广播FM97.5",
+      "region": "辽宁",
+      "frequency": ""
+    },
+    {
+      "id": 1085,
+      "name": "大连体育广播",
+      "region": "辽宁",
+      "frequency": ""
+    },
+    {
+      "id": 1099,
+      "name": "沈阳都市广播",
+      "region": "辽宁",
+      "frequency": ""
+    },
+    {
+      "id": 1101,
+      "name": "沈阳交通广播FM98.6",
+      "region": "辽宁",
+      "frequency": ""
+    },
+    {
+      "id": 1102,
+      "name": "沈阳生活广播",
+      "region": "辽宁",
+      "frequency": ""
+    },
+    {
+      "id": 20018,
+      "name": "辽宁乡村广播",
+      "region": "辽宁",
+      "frequency": ""
+    },
+    {
+      "id": 5022030,
+      "name": "辽阳交通文艺广播",
+      "region": "辽宁",
+      "frequency": ""
+    },
+    {
+      "id": 20019,
+      "name": "辽宁经济广播",
+      "region": "辽宁",
+      "frequency": ""
+    },
+    {
+      "id": 3997,
+      "name": "大连交通广播",
+      "region": "辽宁",
+      "frequency": ""
+    },
+    {
+      "id": 5022018,
+      "name": "辽宁资讯广播fm90.6大连分台",
+      "region": "辽宁",
+      "frequency": ""
+    },
+    {
+      "id": 20021,
+      "name": "辽宁经典音乐广播",
+      "region": "辽宁",
+      "frequency": ""
+    },
+    {
+      "id": 20212414,
+      "name": "普兰店FM90.8",
+      "region": "辽宁",
+      "frequency": ""
+    },
+    {
+      "id": 4953,
+      "name": "吉林新闻综合广播",
+      "region": "吉林",
+      "frequency": ""
+    },
+    {
+      "id": 4967,
+      "name": "长春交通之声",
+      "region": "吉林",
+      "frequency": ""
+    },
+    {
+      "id": 4945,
+      "name": "吉林交通广播",
+      "region": "吉林",
+      "frequency": ""
+    },
+    {
+      "id": 3978,
+      "name": "吉林资讯广播",
+      "region": "吉林",
+      "frequency": ""
+    },
+    {
+      "id": 4850,
+      "name": "长春广播电视台 FM88.0",
+      "region": "吉林",
+      "frequency": ""
+    },
+    {
+      "id": 5022488,
+      "name": "延边新闻广播",
+      "region": "吉林",
+      "frequency": ""
+    },
+    {
+      "id": 1819,
+      "name": "吉林市交通台 FM939",
+      "region": "吉林",
+      "frequency": ""
+    },
+    {
+      "id": 1823,
+      "name": "吉林市广播电视台经济广播",
+      "region": "吉林",
+      "frequency": ""
+    },
+    {
+      "id": 20487,
+      "name": "吉林旅游广播",
+      "region": "吉林",
+      "frequency": ""
+    },
+    {
+      "id": 3977,
+      "name": "吉林乡村广播",
+      "region": "吉林",
+      "frequency": ""
+    },
+    {
+      "id": 20212256,
+      "name": "松原交通文艺广播",
+      "region": "吉林",
+      "frequency": ""
+    },
+    {
+      "id": 5083,
+      "name": "白山交通广播FM950",
+      "region": "吉林",
+      "frequency": ""
+    },
+    {
+      "id": 1831,
+      "name": "吉林音乐广播",
+      "region": "吉林",
+      "frequency": ""
+    },
+    {
+      "id": 20083,
+      "name": "哈尔滨文艺广播",
+      "region": "黑龙江",
+      "frequency": ""
+    },
+    {
+      "id": 4973,
+      "name": "黑龙江交通广播",
+      "region": "黑龙江",
+      "frequency": ""
+    },
+    {
+      "id": 839,
+      "name": "哈尔滨音乐广播",
+      "region": "黑龙江",
+      "frequency": ""
+    },
+    {
+      "id": 4968,
+      "name": "龙广都市女性台",
+      "region": "黑龙江",
+      "frequency": ""
+    },
+    {
+      "id": 838,
+      "name": "哈尔滨交通广播",
+      "region": "黑龙江",
+      "frequency": ""
+    },
+    {
+      "id": 4974,
+      "name": "龙广新闻台",
+      "region": "黑龙江",
+      "frequency": ""
+    },
+    {
+      "id": 20077,
+      "name": "哈尔滨广播电视台综合广播",
+      "region": "黑龙江",
+      "frequency": ""
+    },
+    {
+      "id": 4972,
+      "name": "黑龙江老年少儿广播",
+      "region": "黑龙江",
+      "frequency": ""
+    },
+    {
+      "id": 5022434,
+      "name": "牡丹江综合广播",
+      "region": "黑龙江",
+      "frequency": ""
+    },
+    {
+      "id": 4969,
+      "name": "黑龙江音乐广播",
+      "region": "黑龙江",
+      "frequency": ""
+    },
+    {
+      "id": 837,
+      "name": "哈尔滨经济广播",
+      "region": "黑龙江",
+      "frequency": ""
+    },
+    {
+      "id": 4976,
+      "name": "黑龙江高校广播",
+      "region": "黑龙江",
+      "frequency": ""
+    },
+    {
+      "id": 4970,
+      "name": "黑龙江生活广播",
+      "region": "黑龙江",
+      "frequency": ""
+    },
+    {
+      "id": 4919,
+      "name": "安徽综合广播",
+      "region": "安徽",
+      "frequency": ""
+    },
+    {
+      "id": 1949,
+      "name": "安徽交通广播",
+      "region": "安徽",
+      "frequency": ""
+    },
+    {
+      "id": 5022400,
+      "name": "宿州交通音乐广播",
+      "region": "安徽",
+      "frequency": ""
+    },
+    {
+      "id": 1947,
+      "name": "安徽音乐广播",
+      "region": "安徽",
+      "frequency": ""
+    },
+    {
+      "id": 1965,
+      "name": "安庆综合广播",
+      "region": "安徽",
+      "frequency": ""
+    },
+    {
+      "id": 5029,
+      "name": "芜湖综合广播",
+      "region": "安徽",
+      "frequency": ""
+    },
+    {
+      "id": 1948,
+      "name": "安徽生活广播",
+      "region": "安徽",
+      "frequency": ""
+    },
+    {
+      "id": 1952,
+      "name": "安徽戏曲广播",
+      "region": "安徽",
+      "frequency": ""
+    },
+    {
+      "id": 5027,
+      "name": "芜湖交通经济广播",
+      "region": "安徽",
+      "frequency": ""
+    },
+    {
+      "id": 20211575,
+      "name": "经典983电台",
+      "region": "安徽",
+      "frequency": ""
+    },
+    {
+      "id": 1950,
+      "name": "安徽农村广播",
+      "region": "安徽",
+      "frequency": ""
+    },
+    {
+      "id": 5022399,
+      "name": "宿州综合广播",
+      "region": "安徽",
+      "frequency": ""
+    },
+    {
+      "id": 1975,
+      "name": "合肥文艺广播",
+      "region": "安徽",
+      "frequency": ""
+    },
+    {
+      "id": 1731,
+      "name": "福建新闻广播",
+      "region": "福建",
+      "frequency": ""
+    },
+    {
+      "id": 15318189,
+      "name": "泉州904交通之声",
+      "region": "福建",
+      "frequency": ""
+    },
+    {
+      "id": 1739,
+      "name": "厦门音乐广播",
+      "region": "福建",
+      "frequency": ""
+    },
+    {
+      "id": 15318346,
+      "name": "泉州广播电视台889新闻综合广播",
+      "region": "福建",
+      "frequency": ""
+    },
+    {
+      "id": 1737,
+      "name": "厦门综合广播",
+      "region": "福建",
+      "frequency": ""
+    },
+    {
+      "id": 1738,
+      "name": "厦门交通旅游广播",
+      "region": "福建",
+      "frequency": ""
+    },
+    {
+      "id": 1736,
+      "name": "福建987私家车广播",
+      "region": "福建",
+      "frequency": ""
+    },
+    {
+      "id": 1733,
+      "name": "福建交通广播",
+      "region": "福建",
+      "frequency": ""
+    },
+    {
+      "id": 3937,
+      "name": "福州人民广播电台左海之声",
+      "region": "福建",
+      "frequency": ""
+    },
+    {
+      "id": 5025,
+      "name": "福州新闻广播",
+      "region": "福建",
+      "frequency": ""
+    },
+    {
+      "id": 5026,
+      "name": "福州交通之声",
+      "region": "福建",
+      "frequency": ""
+    },
+    {
+      "id": 1742,
+      "name": "漳州人民广播电台综合广播",
+      "region": "福建",
+      "frequency": ""
+    },
+    {
+      "id": 20709,
+      "name": "龙岩电台综合广播",
+      "region": "福建",
+      "frequency": ""
+    },
+    {
+      "id": 1802,
+      "name": "江西音乐广播",
+      "region": "江西",
+      "frequency": ""
+    },
+    {
+      "id": 1809,
+      "name": "江西新闻广播",
+      "region": "江西",
+      "frequency": ""
+    },
+    {
+      "id": 1804,
+      "name": "南昌交通广播",
+      "region": "江西",
+      "frequency": ""
+    },
+    {
+      "id": 20266,
+      "name": "赣州综合广播",
+      "region": "江西",
+      "frequency": ""
+    },
+    {
+      "id": 20133,
+      "name": "江西旅游广播FM97.4",
+      "region": "江西",
+      "frequency": ""
+    },
+    {
+      "id": 1811,
+      "name": "江西交通广播",
+      "region": "江西",
+      "frequency": ""
+    },
+    {
+      "id": 20500092,
+      "name": "江西潮台969",
+      "region": "江西",
+      "frequency": ""
+    },
+    {
+      "id": 4942,
+      "name": "FM94.5赣州交通音乐广播",
+      "region": "江西",
+      "frequency": ""
+    },
+    {
+      "id": 5021869,
+      "name": "南康交通广播",
+      "region": "江西",
+      "frequency": ""
+    },
+    {
+      "id": 5022036,
+      "name": "FM103.2鹰潭交通音乐广播",
+      "region": "江西",
+      "frequency": ""
+    },
+    {
+      "id": 20178,
+      "name": "新余新闻广播",
+      "region": "江西",
+      "frequency": ""
+    },
+    {
+      "id": 20093,
+      "name": "新余交通广播",
+      "region": "江西",
+      "frequency": ""
+    },
+    {
+      "id": 5022025,
+      "name": "景德镇新闻综合广播",
+      "region": "江西",
+      "frequency": ""
+    },
+    {
+      "id": 1667,
+      "name": "济南新闻广播",
+      "region": "山东",
+      "frequency": ""
+    },
+    {
+      "id": 1668,
+      "name": "济南经济广播",
+      "region": "山东",
+      "frequency": ""
+    },
+    {
+      "id": 3995,
+      "name": "都市101经济广播",
+      "region": "山东",
+      "frequency": ""
+    },
+    {
+      "id": 1673,
+      "name": "青岛新闻广播",
+      "region": "山东",
+      "frequency": ""
+    },
+    {
+      "id": 1669,
+      "name": "济南交通广播",
+      "region": "山东",
+      "frequency": ""
+    },
+    {
+      "id": 1676,
+      "name": "青岛交通广播",
+      "region": "山东",
+      "frequency": ""
+    },
+    {
+      "id": 20236,
+      "name": "山东经济广播",
+      "region": "山东",
+      "frequency": ""
+    },
+    {
+      "id": 1672,
+      "name": "济南故事广播",
+      "region": "山东",
+      "frequency": ""
+    },
+    {
+      "id": 3992,
+      "name": "临沂综合广播",
+      "region": "山东",
+      "frequency": ""
+    },
+    {
+      "id": 20240,
+      "name": "山东经典音乐广播",
+      "region": "山东",
+      "frequency": ""
+    },
+    {
+      "id": 20176,
+      "name": "FM92.6 综合广播",
+      "region": "山东",
+      "frequency": ""
+    },
+    {
+      "id": 20212426,
+      "name": "崂山921",
+      "region": "山东",
+      "frequency": ""
+    },
+    {
+      "id": 5022537,
+      "name": "城阳940",
+      "region": "山东",
+      "frequency": ""
+    },
+    {
+      "id": 1220,
+      "name": "郑州新闻广播",
+      "region": "河南",
+      "frequency": ""
+    },
+    {
+      "id": 1223,
+      "name": "怀旧好声音",
+      "region": "河南",
+      "frequency": ""
+    },
+    {
+      "id": 1213,
+      "name": "1042南阳新闻广播",
+      "region": "河南",
+      "frequency": ""
+    },
+    {
+      "id": 1211,
+      "name": "郑州交通广播",
+      "region": "河南",
+      "frequency": ""
+    },
+    {
+      "id": 1227,
+      "name": "洛阳交通广播",
+      "region": "河南",
+      "frequency": ""
+    },
+    {
+      "id": 1221,
+      "name": "郑州经济广播",
+      "region": "河南",
+      "frequency": ""
+    },
+    {
+      "id": 20212215,
+      "name": "周口综合广播",
+      "region": "河南",
+      "frequency": ""
+    },
+    {
+      "id": 1226,
+      "name": "洛阳音乐广播",
+      "region": "河南",
+      "frequency": ""
+    },
+    {
+      "id": 2138,
+      "name": "安阳交通广播",
+      "region": "河南",
+      "frequency": ""
+    },
+    {
+      "id": 4921,
+      "name": "郑州音乐广播",
+      "region": "河南",
+      "frequency": ""
+    },
+    {
+      "id": 1225,
+      "name": "洛阳综合广播",
+      "region": "河南",
+      "frequency": ""
+    },
+    {
+      "id": 1214,
+      "name": "开封交通旅游广播",
+      "region": "河南",
+      "frequency": ""
+    },
+    {
+      "id": 1212,
+      "name": "南阳交通广播",
+      "region": "河南",
+      "frequency": ""
+    },
+    {
+      "id": 1303,
+      "name": "湖北之声",
+      "region": "湖北",
+      "frequency": ""
+    },
+    {
+      "id": 1291,
+      "name": "楚天交通广播",
+      "region": "湖北",
+      "frequency": ""
+    },
+    {
+      "id": 1297,
+      "name": "武汉经典音乐广播",
+      "region": "湖北",
+      "frequency": ""
+    },
+    {
+      "id": 20200,
+      "name": "武汉经济广播",
+      "region": "湖北",
+      "frequency": ""
+    },
+    {
+      "id": 1308,
+      "name": "襄阳交通音乐广播",
+      "region": "湖北",
+      "frequency": ""
+    },
+    {
+      "id": 20198,
+      "name": "武汉新闻广播",
+      "region": "湖北",
+      "frequency": ""
+    },
+    {
+      "id": 1296,
+      "name": "湖北经典音乐广播",
+      "region": "湖北",
+      "frequency": ""
+    },
+    {
+      "id": 1307,
+      "name": "襄阳之声",
+      "region": "湖北",
+      "frequency": ""
+    },
+    {
+      "id": 4665,
+      "name": "武汉交通广播",
+      "region": "湖北",
+      "frequency": ""
+    },
+    {
+      "id": 3964,
+      "name": "黄石交通广播",
+      "region": "湖北",
+      "frequency": ""
+    },
+    {
+      "id": 20211577,
+      "name": "荆门综合广播",
+      "region": "湖北",
+      "frequency": ""
+    },
+    {
+      "id": 20563,
+      "name": "宜昌交通广播",
+      "region": "湖北",
+      "frequency": ""
+    },
+    {
+      "id": 20338,
+      "name": "十堰综合广播",
+      "region": "湖北",
+      "frequency": ""
+    },
+    {
+      "id": 20847,
+      "name": "FM88.6长沙音乐广播",
+      "region": "湖南",
+      "frequency": ""
+    },
+    {
+      "id": 4237,
+      "name": "长沙FM101.7城市之声",
+      "region": "湖南",
+      "frequency": ""
+    },
+    {
+      "id": 4879,
+      "name": "湖南交通频道",
+      "region": "湖南",
+      "frequency": ""
+    },
+    {
+      "id": 4937,
+      "name": "湖南金鹰955电台",
+      "region": "湖南",
+      "frequency": ""
+    },
+    {
+      "id": 4930,
+      "name": "FM102.2亲子智慧电台",
+      "region": "湖南",
+      "frequency": ""
+    },
+    {
+      "id": 3967,
+      "name": "1061长沙交通广播",
+      "region": "湖南",
+      "frequency": ""
+    },
+    {
+      "id": 4877,
+      "name": "FM105.0长沙新闻广播",
+      "region": "湖南",
+      "frequency": ""
+    },
+    {
+      "id": 5022391,
+      "name": "Easy Fm",
+      "region": "湖南",
+      "frequency": ""
+    },
+    {
+      "id": 5021860,
+      "name": "FM106.8常德鼎广电台",
+      "region": "湖南",
+      "frequency": ""
+    },
+    {
+      "id": 5022076,
+      "name": "长沙925电台",
+      "region": "湖南",
+      "frequency": ""
+    },
+    {
+      "id": 4979,
+      "name": "89.3芒果音乐台",
+      "region": "湖南",
+      "frequency": ""
+    },
+    {
+      "id": 15318386,
+      "name": "衡阳综合广播",
+      "region": "湖南",
+      "frequency": ""
+    },
+    {
+      "id": 3971,
+      "name": "株洲交通广播",
+      "region": "湖南",
+      "frequency": ""
+    },
+    {
+      "id": 4875,
+      "name": "FM950广西音乐台",
+      "region": "广西",
+      "frequency": ""
+    },
+    {
+      "id": 1753,
+      "name": "广西电台新闻910",
+      "region": "广西",
+      "frequency": ""
+    },
+    {
+      "id": 1756,
+      "name": "广西私家车930",
+      "region": "广西",
+      "frequency": ""
+    },
+    {
+      "id": 1754,
+      "name": "广西970女主播电台",
+      "region": "广西",
+      "frequency": ""
+    },
+    {
+      "id": 20767,
+      "name": "南宁1074交通台",
+      "region": "广西",
+      "frequency": ""
+    },
+    {
+      "id": 20358,
+      "name": "南宁990新闻台",
+      "region": "广西",
+      "frequency": ""
+    },
+    {
+      "id": 1762,
+      "name": "978玉林城市电台",
+      "region": "广西",
+      "frequency": ""
+    },
+    {
+      "id": 20697,
+      "name": "贵港金曲1019",
+      "region": "广西",
+      "frequency": ""
+    },
+    {
+      "id": 1760,
+      "name": "桂林飞扬调频",
+      "region": "广西",
+      "frequency": ""
+    },
+    {
+      "id": 20861,
+      "name": "北海新闻综合广播",
+      "region": "广西",
+      "frequency": ""
+    },
+    {
+      "id": 20571,
+      "name": "FM99.10柳州交通广播",
+      "region": "广西",
+      "frequency": ""
+    },
+    {
+      "id": 20211621,
+      "name": "北海交通音乐广播",
+      "region": "广西",
+      "frequency": ""
+    },
+    {
+      "id": 21043,
+      "name": "柳州综合广播",
+      "region": "广西",
+      "frequency": ""
+    },
+    {
+      "id": 5022079,
+      "name": "交通954",
+      "region": "海南",
+      "frequency": ""
+    },
+    {
+      "id": 21243,
+      "name": "海南民生广播",
+      "region": "海南",
+      "frequency": ""
+    },
+    {
+      "id": 1861,
+      "name": "海南新闻广播",
+      "region": "海南",
+      "frequency": ""
+    },
+    {
+      "id": 20450,
+      "name": "三亚天涯之声",
+      "region": "海南",
+      "frequency": ""
+    },
+    {
+      "id": 15318203,
+      "name": "三亚之声",
+      "region": "海南",
+      "frequency": ""
+    },
+    {
+      "id": 20010,
+      "name": "海口音乐广播",
+      "region": "海南",
+      "frequency": ""
+    },
+    {
+      "id": 4878,
+      "name": "海南音乐广播",
+      "region": "海南",
+      "frequency": ""
+    },
+    {
+      "id": 5022015,
+      "name": "FM101.8海口综合广播",
+      "region": "海南",
+      "frequency": ""
+    },
+    {
+      "id": 5022287,
+      "name": "琼海人民广播电台",
+      "region": "海南",
+      "frequency": ""
+    },
+    {
+      "id": 1862,
+      "name": "海南旅游广播•国际旅游岛之声",
+      "region": "海南",
+      "frequency": ""
+    },
+    {
+      "id": 20500233,
+      "name": "Live Radio海口生活广播",
+      "region": "海南",
+      "frequency": ""
+    },
+    {
+      "id": 20500237,
+      "name": "万宁综合广播",
+      "region": "海南",
+      "frequency": ""
+    },
+    {
+      "id": 1502,
+      "name": "938重庆私家车广播",
+      "region": "重庆",
+      "frequency": ""
+    },
+    {
+      "id": 1498,
+      "name": "重庆之声",
+      "region": "重庆",
+      "frequency": ""
+    },
+    {
+      "id": 647,
+      "name": "重庆音乐广播",
+      "region": "重庆",
+      "frequency": ""
+    },
+    {
+      "id": 1500,
+      "name": "重庆交通广播",
+      "region": "重庆",
+      "frequency": ""
+    },
+    {
+      "id": 5022385,
+      "name": "重庆巴渝之声",
+      "region": "重庆",
+      "frequency": ""
+    },
+    {
+      "id": 20210236,
+      "name": "100.7重庆永川之声",
+      "region": "重庆",
+      "frequency": ""
+    },
+    {
+      "id": 20211676,
+      "name": "大足人民广播电台",
+      "region": "重庆",
+      "frequency": ""
+    },
+    {
+      "id": 20211646,
+      "name": "梁平之声",
+      "region": "重庆",
+      "frequency": ""
+    },
+    {
+      "id": 15318405,
+      "name": "重庆南川97.0",
+      "region": "重庆",
+      "frequency": ""
+    },
+    {
+      "id": 15318480,
+      "name": "万盛融媒体中心综合广播",
+      "region": "重庆",
+      "frequency": ""
+    },
+    {
+      "id": 20500201,
+      "name": "綦江综合广播",
+      "region": "重庆",
+      "frequency": ""
+    },
+    {
+      "id": 4906,
+      "name": "四川新闻广播FM106.1",
+      "region": "四川",
+      "frequency": ""
+    },
+    {
+      "id": 4886,
+      "name": "四川交通广播FM101.7",
+      "region": "四川",
+      "frequency": ""
+    },
+    {
+      "id": 20211686,
+      "name": "成都年代音乐怀旧好声音",
+      "region": "四川",
+      "frequency": ""
+    },
+    {
+      "id": 20500066,
+      "name": "年代音乐1022",
+      "region": "四川",
+      "frequency": ""
+    },
+    {
+      "id": 1121,
+      "name": "成都经济广播",
+      "region": "四川",
+      "frequency": ""
+    },
+    {
+      "id": 4987,
+      "name": "德阳综合广播",
+      "region": "四川",
+      "frequency": ""
+    },
+    {
+      "id": 4892,
+      "name": "成都电台FM946",
+      "region": "四川",
+      "frequency": ""
+    },
+    {
+      "id": 15318703,
+      "name": "欧美音乐88.7",
+      "region": "四川",
+      "frequency": ""
+    },
+    {
+      "id": 1111,
+      "name": "四川城市之音",
+      "region": "四川",
+      "frequency": ""
+    },
+    {
+      "id": 4891,
+      "name": "成都交通文艺广播FM91.4",
+      "region": "四川",
+      "frequency": ""
+    },
+    {
+      "id": 4897,
+      "name": "成都新闻广播",
+      "region": "四川",
+      "frequency": ""
+    },
+    {
+      "id": 1110,
+      "name": "四川岷江音乐广播",
+      "region": "四川",
+      "frequency": ""
+    },
+    {
+      "id": 4581,
+      "name": "亚洲音乐成都FM96.5",
+      "region": "四川",
+      "frequency": ""
+    },
+    {
+      "id": 20057,
+      "name": "贵州交通广播",
+      "region": "贵州",
+      "frequency": ""
+    },
+    {
+      "id": 20067,
+      "name": "贵州FM91.6音乐广播",
+      "region": "贵州",
+      "frequency": ""
+    },
+    {
+      "id": 20063,
+      "name": "贵州广播电视台综合广播",
+      "region": "贵州",
+      "frequency": ""
+    },
+    {
+      "id": 20741,
+      "name": "遵义综合广播",
+      "region": "贵州",
+      "frequency": ""
+    },
+    {
+      "id": 1773,
+      "name": "贵阳综合广播",
+      "region": "贵州",
+      "frequency": ""
+    },
+    {
+      "id": 5022045,
+      "name": "凯里人民广播电台",
+      "region": "贵州",
+      "frequency": ""
+    },
+    {
+      "id": 5022203,
+      "name": "安顺综合广播FM105.9",
+      "region": "贵州",
+      "frequency": ""
+    },
+    {
+      "id": 5045,
+      "name": "黔西南FM107.9综合广播",
+      "region": "贵州",
+      "frequency": ""
+    },
+    {
+      "id": 20500037,
+      "name": "织金人民广播电台综合广播",
+      "region": "贵州",
+      "frequency": ""
+    },
+    {
+      "id": 5046,
+      "name": "黔西南FM88.3交通旅游广播",
+      "region": "贵州",
+      "frequency": ""
+    },
+    {
+      "id": 5021866,
+      "name": "七星关综合广播",
+      "region": "贵州",
+      "frequency": ""
+    },
+    {
+      "id": 5022285,
+      "name": "黔东南综合广播FM89.8",
+      "region": "贵州",
+      "frequency": ""
+    },
+    {
+      "id": 20211616,
+      "name": "六盘水广播电视台综合广播",
+      "region": "贵州",
+      "frequency": ""
+    },
+    {
+      "id": 1936,
+      "name": "FM954汽车音乐广播",
+      "region": "云南",
+      "frequency": ""
+    },
+    {
+      "id": 1926,
+      "name": "云南新闻广播",
+      "region": "云南",
+      "frequency": ""
+    },
+    {
+      "id": 1928,
+      "name": "云南交通之声",
+      "region": "云南",
+      "frequency": ""
+    },
+    {
+      "id": 1934,
+      "name": "FM1008新闻综合广播",
+      "region": "云南",
+      "frequency": ""
+    },
+    {
+      "id": 1937,
+      "name": "FM105城市资讯",
+      "region": "云南",
+      "frequency": ""
+    },
+    {
+      "id": 5021850,
+      "name": "德宏民语综合广播",
+      "region": "云南",
+      "frequency": ""
+    },
+    {
+      "id": 1929,
+      "name": "云南音乐广播",
+      "region": "云南",
+      "frequency": ""
+    },
+    {
+      "id": 21249,
+      "name": "昭通新闻综合广播",
+      "region": "云南",
+      "frequency": ""
+    },
+    {
+      "id": 4033,
+      "name": "红河之声",
+      "region": "云南",
+      "frequency": ""
+    },
+    {
+      "id": 5022031,
+      "name": "玉溪新闻综合广播FM102.4",
+      "region": "云南",
+      "frequency": ""
+    },
+    {
+      "id": 4030,
+      "name": "楚雄综合广播",
+      "region": "云南",
+      "frequency": ""
+    },
+    {
+      "id": 1927,
+      "name": "云南私家车电台",
+      "region": "云南",
+      "frequency": ""
+    },
+    {
+      "id": 1940,
+      "name": "大理电台苍洱调频",
+      "region": "云南",
+      "frequency": ""
+    },
+    {
+      "id": 5022138,
+      "name": "拉萨人民广播电台914",
+      "region": "西藏",
+      "frequency": ""
+    },
+    {
+      "id": 1600,
+      "name": "陕西新闻广播",
+      "region": "陕西",
+      "frequency": ""
+    },
+    {
+      "id": 1601,
+      "name": "陕西交通广播",
+      "region": "陕西",
+      "frequency": ""
+    },
+    {
+      "id": 1602,
+      "name": "陕西农村广播",
+      "region": "陕西",
+      "frequency": ""
+    },
+    {
+      "id": 1612,
+      "name": "西安音乐广播",
+      "region": "陕西",
+      "frequency": ""
+    },
+    {
+      "id": 1610,
+      "name": "西安新闻广播",
+      "region": "陕西",
+      "frequency": ""
+    },
+    {
+      "id": 4873,
+      "name": "陕西音乐广播",
+      "region": "陕西",
+      "frequency": ""
+    },
+    {
+      "id": 1603,
+      "name": "唐诗电台",
+      "region": "陕西",
+      "frequency": ""
+    },
+    {
+      "id": 5022397,
+      "name": "FM100.7咸阳人民广播电台",
+      "region": "陕西",
+      "frequency": ""
+    },
+    {
+      "id": 4885,
+      "name": "陕西青少广播·1055青春有我",
+      "region": "陕西",
+      "frequency": ""
+    },
+    {
+      "id": 15318128,
+      "name": "宝鸡交通旅游",
+      "region": "陕西",
+      "frequency": ""
+    },
+    {
+      "id": 5022389,
+      "name": "渭南广播FM90.9",
+      "region": "陕西",
+      "frequency": ""
+    },
+    {
+      "id": 1611,
+      "name": "西安交通广播",
+      "region": "陕西",
+      "frequency": ""
+    },
+    {
+      "id": 5021862,
+      "name": "安康交通广播",
+      "region": "陕西",
+      "frequency": ""
+    },
+    {
+      "id": 20460,
+      "name": "天水综合广播",
+      "region": "甘肃",
+      "frequency": ""
+    },
+    {
+      "id": 3941,
+      "name": "甘肃农村广播",
+      "region": "甘肃",
+      "frequency": ""
+    },
+    {
+      "id": 5022096,
+      "name": "张掖新闻综合广播",
+      "region": "甘肃",
+      "frequency": ""
+    },
+    {
+      "id": 15318602,
+      "name": "FM106.6综合广播",
+      "region": "甘肃",
+      "frequency": ""
+    },
+    {
+      "id": 5009,
+      "name": "青海交通音乐",
+      "region": "青海",
+      "frequency": ""
+    },
+    {
+      "id": 5022282,
+      "name": "西宁新闻综合广播",
+      "region": "青海",
+      "frequency": ""
+    },
+    {
+      "id": 5008,
+      "name": "青海经济生活广播",
+      "region": "青海",
+      "frequency": ""
+    },
+    {
+      "id": 5022283,
+      "name": "FM104.3西宁交通文艺广播",
+      "region": "青海",
+      "frequency": ""
+    },
+    {
+      "id": 1840,
+      "name": "宁夏交通广播",
+      "region": "宁夏",
+      "frequency": ""
+    },
+    {
+      "id": 15318294,
+      "name": "宁夏音乐广播",
+      "region": "宁夏",
+      "frequency": ""
+    },
+    {
+      "id": 5022563,
+      "name": "石嘴山综合广播",
+      "region": "宁夏",
+      "frequency": ""
+    },
+    {
+      "id": 1910,
+      "name": "新疆交通广播",
+      "region": "新疆",
+      "frequency": ""
+    },
+    {
+      "id": 20639,
+      "name": "新疆电台维语交通文艺广播",
+      "region": "新疆",
+      "frequency": ""
+    },
+    {
+      "id": 1902,
+      "name": "新疆新闻广播FM96.1",
+      "region": "新疆",
+      "frequency": ""
+    },
+    {
+      "id": 5022688,
+      "name": "伊犁维吾尔语综合广播",
+      "region": "新疆",
+      "frequency": ""
+    },
+    {
+      "id": 1923,
+      "name": "乌鲁木齐维吾尔语广播",
+      "region": "新疆",
+      "frequency": ""
+    },
+    {
+      "id": 5022410,
+      "name": "兵团882综合广播",
+      "region": "新疆",
+      "frequency": ""
+    },
+    {
+      "id": 1909,
+      "name": "新疆929文化旅游广播",
+      "region": "新疆",
+      "frequency": ""
+    },
+    {
+      "id": 1918,
+      "name": "乌鲁木齐新闻广播",
+      "region": "新疆",
+      "frequency": ""
+    },
+    {
+      "id": 5022692,
+      "name": "伊犁哈萨克语综合广播",
+      "region": "新疆",
+      "frequency": ""
+    },
+    {
+      "id": 1919,
+      "name": "乌鲁木齐974交通广播",
+      "region": "新疆",
+      "frequency": ""
+    },
+    {
+      "id": 1908,
+      "name": "新疆哈萨克语广播",
+      "region": "新疆",
+      "frequency": ""
+    },
+    {
+      "id": 20440,
+      "name": "新疆昌吉 FM103.3综合广播",
+      "region": "新疆",
+      "frequency": ""
+    },
+    {
+      "id": 5022104,
+      "name": "巴音郭楞广播电视台1077交通文艺广播",
+      "region": "新疆",
+      "frequency": ""
+    }
+  ],
+  "regions": [
+    {
+      "name": "上海",
+      "first": 0,
+      "count": 10
+    },
+    {
+      "name": "北京",
+      "first": 10,
+      "count": 9
+    },
+    {
+      "name": "浙江",
+      "first": 19,
+      "count": 14
+    },
+    {
+      "name": "江苏",
+      "first": 33,
+      "count": 14
+    },
+    {
+      "name": "广东",
+      "first": 47,
+      "count": 14
+    },
+    {
+      "name": "天津",
+      "first": 61,
+      "count": 2
+    },
+    {
+      "name": "河北",
+      "first": 63,
+      "count": 13
+    },
+    {
+      "name": "山西",
+      "first": 76,
+      "count": 13
+    },
+    {
+      "name": "内蒙古",
+      "first": 89,
+      "count": 13
+    },
+    {
+      "name": "辽宁",
+      "first": 102,
+      "count": 13
+    },
+    {
+      "name": "吉林",
+      "first": 115,
+      "count": 13
+    },
+    {
+      "name": "黑龙江",
+      "first": 128,
+      "count": 13
+    },
+    {
+      "name": "安徽",
+      "first": 141,
+      "count": 13
+    },
+    {
+      "name": "福建",
+      "first": 154,
+      "count": 13
+    },
+    {
+      "name": "江西",
+      "first": 167,
+      "count": 13
+    },
+    {
+      "name": "山东",
+      "first": 180,
+      "count": 13
+    },
+    {
+      "name": "河南",
+      "first": 193,
+      "count": 13
+    },
+    {
+      "name": "湖北",
+      "first": 206,
+      "count": 13
+    },
+    {
+      "name": "湖南",
+      "first": 219,
+      "count": 13
+    },
+    {
+      "name": "广西",
+      "first": 232,
+      "count": 13
+    },
+    {
+      "name": "海南",
+      "first": 245,
+      "count": 12
+    },
+    {
+      "name": "重庆",
+      "first": 257,
+      "count": 11
+    },
+    {
+      "name": "四川",
+      "first": 268,
+      "count": 13
+    },
+    {
+      "name": "贵州",
+      "first": 281,
+      "count": 13
+    },
+    {
+      "name": "云南",
+      "first": 294,
+      "count": 13
+    },
+    {
+      "name": "西藏",
+      "first": 307,
+      "count": 1
+    },
+    {
+      "name": "陕西",
+      "first": 308,
+      "count": 13
+    },
+    {
+      "name": "甘肃",
+      "first": 321,
+      "count": 4
+    },
+    {
+      "name": "青海",
+      "first": 325,
+      "count": 4
+    },
+    {
+      "name": "宁夏",
+      "first": 329,
+      "count": 3
+    },
+    {
+      "name": "新疆",
+      "first": 332,
+      "count": 13
+    }
+  ]
+}

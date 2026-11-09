@@ -1,0 +1,29 @@
+{
+  "target": "esp32c3",
+  "flash_size_bytes": 8388608,
+  "idf_version": "v5.5.3",
+  "release_date": "2026-11-07",
+  "app_elf_sha256": "798e65973ec41fea8b00238b955218c1010791b4c8d0863777aa14d84d709b21",
+  "files": {
+    "AI-Passport-Monitor-Talk-app.bin": {
+      "sha256": "de09389e15fa2d55b3761b9348a53e4d5b968f6964638ea70b0069215280ea91",
+      "size": 1675600,
+      "flash_offset": "0x10000"
+    },
+    "AI-Passport-Monitor-Talk-full.bin": {
+      "sha256": "81f91438a199046f403521108eeabb31afb250c1d3bfd959b39cb3a5f18e46c0",
+      "size": 1741136,
+      "flash_offset": "0x0"
+    },
+    "AI-Passport-WiFi-Setup-app.bin": {
+      "sha256": "474553a2a8f8dfbe9baffb1ae4cfc04a4b64cf8025795c0a5b43ce3d4c492344",
+      "size": 913408,
+      "flash_offset": "0x10000"
+    },
+    "AI-Passport-WiFi-Setup-full.bin": {
+      "sha256": "4ea656b64d35e4ce295f7ba956a1aab5ecf76e7378f7467d231af55360a76afa",
+      "size": 978944,
+      "flash_offset": "0x0"
+    }
+  }
+}

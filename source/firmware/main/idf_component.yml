@@ -1,0 +1,8 @@
+dependencies:
+  espressif/esp_audio_codec:
+    version: "2.4.1"
+  # Keep the established display and build helpers while adding the decoder.
+  lvgl/lvgl:
+    version: "9.5.0"
+  espressif/cmake_utilities:
+    version: "1.1.1"
